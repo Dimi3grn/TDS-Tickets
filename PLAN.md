@@ -310,19 +310,6 @@ npm start
 
 ---
 
-## 🔮 Future Improvements (Not Implemented)
-
-- [ ] `/mystatus` - Player checks their ticket status
-- [ ] `/cancel` - Player cancels their own ticket
-- [ ] `/available` - Player updates their availability
-- [ ] `/forceclose` - Mod force closes any ticket
-- [ ] `/transfer` - Mod transfers ticket to another helper
-- [ ] `/blacklist` - Block users from creating tickets
-- [ ] `/stats` - View carry statistics
-- [ ] Auto-close expired tickets
-- [ ] Ticket timeout warnings (20 min, then close at 30 min)
-
----
 
 ## ✨ Key Improvements Over Tickets v2
 
