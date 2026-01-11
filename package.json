@@ -1,0 +1,25 @@
+{
+  "name": "tds-carry-bot",
+  "version": "1.0.0",
+  "description": "Custom Discord bot for TDS carry service management",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "deploy-commands": "node src/deploy-commands.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tds",
+    "tower-defense",
+    "carry"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "sql.js": "^1.11.0"
+  }
+}
